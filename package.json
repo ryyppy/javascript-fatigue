@@ -1,0 +1,22 @@
+{
+  "name": "javascript-fatigue",
+  "version": "1.0.0",
+  "description": "Some boilerplate snippets I usually use",
+  "author": "Patrick Stapfer",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "jsfat-init": "./bin/common_project.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryyppy/javascript-fatigue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryyppy/javascript-fatigue/issues"
+  },
+  "homepage": "https://github.com/ryyppy/javascript-fatigue#readme"
+}
