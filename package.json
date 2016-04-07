@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {},
   "bin": {
-    "jsfat-init": "./bin/common_project.sh"
+    "jsfat-init": "./bin/initProject.js"
   },
   "repository": {
     "type": "git",
