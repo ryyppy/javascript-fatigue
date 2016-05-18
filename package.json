@@ -2,7 +2,7 @@
   "name": "javascript-fatigue",
   "version": "1.0.0",
   "description": "Some boilerplate snippets I usually use",
-  "author": "Patrick Stapfer",
+  "author": "",
   "main": "index.js",
   "scripts": {},
   "bin": {
@@ -13,10 +13,22 @@
     "url": "git+https://github.com/ryyppy/javascript-fatigue.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ryyppy/javascript-fatigue/issues"
   },
-  "homepage": "https://github.com/ryyppy/javascript-fatigue#readme"
+  "homepage": "https://github.com/ryyppy/javascript-fatigue#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.7.5",
+    "babel-core": "^6.7.5",
+    "babel-eslint": "^6.0.2",
+    "babel-plugin-transform-flow-strip-types": "^6.7.0",
+    "babel-preset-es2015": "^6.6.0",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-flow-vars": "^0.3.0",
+    "eslint-plugin-react": "^4.3.0",
+    "tape": "^4.5.1"
+  }
 }
